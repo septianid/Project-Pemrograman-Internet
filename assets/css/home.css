@@ -1,0 +1,80 @@
+.container-home{
+background-color: #7b377b;
+}
+.status-box {
+  outline: none;
+  font-size: 16px;
+  padding-top: 12px;
+  padding-bottom: 10px;
+  resize: none;
+}
+.status-box:focus {
+  box-shadow: 0 5px 12px rgba(102, 102, 102, 0.1);
+  border-color: rgba(102, 102, 102, 0.5);
+  outline: 0;
+}
+.btn-post{
+  box-shadow: 0 5px 12px rgba(102, 102, 102, 0.1);
+  background-color: #a11cb6;
+
+}
+.posts {
+  display: block;
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+  font-size: 15px;
+}
+.posts .post {
+  padding: 25px;
+  margin-bottom: 20px;
+  background-color: #e3b9ed;
+  border-radius: 5px;
+  max-width: 100%;
+  position: relative;
+}
+
+.code-post{
+  padding: 25px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  max-width: 100%;
+  position: relative;
+}
+.signup-style{
+  padding: 25px;
+  background-color: #b666c9;
+  border-radius: 25px;
+  max-width: 100%;
+  position: relative;
+  margin-top: 50px;
+}
+
+.label1{
+  text-align: center;
+}
+
+.button1{
+  background-color: #6f0378;
+
+}
+.login-action1{
+  background-color:#cc8ccc;
+  margin-top:0px;
+  padding:0px 8px;
+  font-size: 18px;
+  font-family: 'Hind', sans-serif;
+  color: #7b377b;
+}
+
+.komen{
+  margin-top: 35.5px ;
+}
+
+.tgl{
+
+}
+.nama{
+  
+}
